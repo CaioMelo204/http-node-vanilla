@@ -1,0 +1,20 @@
+{
+  "name": "http-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon server.mjs"
+  },
+  "keywords": [],
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body": "^5.1.0",
+    "formidable": "1.2.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
